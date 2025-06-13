@@ -1,0 +1,16 @@
+C:\Users\MY\Documents\.NET\FreelancerApp.Application\bin\Debug\net9.0\FreelancerApp.Application.deps.json
+C:\Users\MY\Documents\.NET\FreelancerApp.Application\bin\Debug\net9.0\FreelancerApp.Application.dll
+C:\Users\MY\Documents\.NET\FreelancerApp.Application\bin\Debug\net9.0\FreelancerApp.Application.pdb
+C:\Users\MY\Documents\.NET\FreelancerApp.Application\bin\Debug\net9.0\FreelancerApp.Domain.dll
+C:\Users\MY\Documents\.NET\FreelancerApp.Application\bin\Debug\net9.0\FreelancerApp.Domain.pdb
+C:\Users\MY\Documents\.NET\FreelancerApp.Application\obj\Debug\net9.0\FreelancerApp.Application.csproj.AssemblyReference.cache
+C:\Users\MY\Documents\.NET\FreelancerApp.Application\obj\Debug\net9.0\FreelancerApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY\Documents\.NET\FreelancerApp.Application\obj\Debug\net9.0\FreelancerApp.Application.AssemblyInfoInputs.cache
+C:\Users\MY\Documents\.NET\FreelancerApp.Application\obj\Debug\net9.0\FreelancerApp.Application.AssemblyInfo.cs
+C:\Users\MY\Documents\.NET\FreelancerApp.Application\obj\Debug\net9.0\FreelancerApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\MY\Documents\.NET\FreelancerApp.Application\obj\Debug\net9.0\Freelanc.C72B6D15.Up2Date
+C:\Users\MY\Documents\.NET\FreelancerApp.Application\obj\Debug\net9.0\FreelancerApp.Application.dll
+C:\Users\MY\Documents\.NET\FreelancerApp.Application\obj\Debug\net9.0\refint\FreelancerApp.Application.dll
+C:\Users\MY\Documents\.NET\FreelancerApp.Application\obj\Debug\net9.0\FreelancerApp.Application.pdb
+C:\Users\MY\Documents\.NET\FreelancerApp.Application\obj\Debug\net9.0\ref\FreelancerApp.Application.dll
+C:\Users\MY\Documents\.NET\FreelancerApp.Application\obj\Debug\net9.0\FreelancerApp.Application.sourcelink.json
